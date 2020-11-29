@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T02:32:20.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.48" etag="fHkLsCwyiwrB7lO9nsOC" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T02:44:31.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.48" etag="okJXf3J0RbXZAIuPli6m" version="13.10.4" type="github">
   <diagram id="3bogWYtIj_0FeeoEEC-V" name="第 1 页">
     <mxGraphModel dx="1558" dy="999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -381,7 +381,7 @@
         <mxCell id="5rDcIRv__oPbMBqTp8LO-64" value="案例" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=0;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="420" y="547" width="160" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="5rDcIRv__oPbMBqTp8LO-65" value="+类型 个人/系统&#xa;+分类 手术材料&#xa;+备注内容&#xa;+是否公开&#xa;+公开时间&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="5rDcIRv__oPbMBqTp8LO-64" vertex="1">
+        <mxCell id="5rDcIRv__oPbMBqTp8LO-65" value="+类型 个人/系统&#xa;+分类 手术材料&#xa;+备注内容&#xa;+是否公开&#xa;+公开时间&#xa;+Attribute3&#xa;+牙科用户id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="5rDcIRv__oPbMBqTp8LO-64" vertex="1">
           <mxGeometry y="30" width="160" height="134" as="geometry" />
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-98" value="咨询师" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=0;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
