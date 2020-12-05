@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:46:32.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.48" etag="noWiWelpW1ur9KCGbKWS" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T13:14:56.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.48" etag="F7OP_w3Jy04ub0hVJu2s" version="13.10.9" type="github">
   <diagram id="3bogWYtIj_0FeeoEEC-V" name="第 1 页">
-    <mxGraphModel dx="1558" dy="999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +333,7 @@
           <mxGeometry y="30" width="160" height="104" as="geometry" />
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-102" value="收入支出明细" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=0;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1306" y="569" width="160" height="120" as="geometry" />
+          <mxGeometry x="1344" y="569" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-103" value="+类型&#xa;+交易金额" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="5rDcIRv__oPbMBqTp8LO-102" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -351,7 +351,7 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-32" value="名词" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=0;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1321" y="812" width="160" height="120" as="geometry" />
+          <mxGeometry x="1344" y="812" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-33" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="5rDcIRv__oPbMBqTp8LO-32" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -378,7 +378,7 @@
             <mxPoint x="-14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bq2006gUyoLA-v94pP9C-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5rDcIRv__oPbMBqTp8LO-64">
+        <mxCell id="Bq2006gUyoLA-v94pP9C-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5rDcIRv__oPbMBqTp8LO-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="560" as="targetPoint" />
             <Array as="points">
@@ -389,7 +389,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-64" value="案例" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=0;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="420" y="547" width="160" height="164" as="geometry" />
+          <mxGeometry x="420" y="547" width="160" height="164" as="geometry">
+            <mxRectangle x="420" y="547" width="55" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5rDcIRv__oPbMBqTp8LO-65" value="+类型 个人/系统&#xa;+分类 手术材料&#xa;+备注内容&#xa;+是否公开&#xa;+公开时间&#xa;+Attribute3&#xa;+牙科用户id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="5rDcIRv__oPbMBqTp8LO-64" vertex="1">
           <mxGeometry y="30" width="160" height="134" as="geometry" />
